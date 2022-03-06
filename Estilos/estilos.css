@@ -8,14 +8,10 @@ body{
 }
 
 a{
-<<<<<<< HEAD
     position: relative;
-=======
->>>>>>> dce6b4396a6472db490aed4119604d8489e85d2e
     padding: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:orange;
-        
 }
 
 a:hover{
@@ -28,6 +24,7 @@ a:focus{
 
 button:hover{
     color: orangered;
+    box-shadow: 6px 15px 10px rgb(185, 255, 206);
 }
 
 button{
